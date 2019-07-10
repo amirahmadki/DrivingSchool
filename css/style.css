@@ -1,0 +1,34 @@
+.carousel-item {
+  height: 600px;
+}
+.carousel-img-1 {
+  background: url("/img/teen-driver1.jpg");
+  background-size: cover;
+}
+.carousel-img-2 {
+  background: url("/img/teen-driver2.jpg");
+  background-size: cover;
+}
+
+.carousel-img-3 {
+  background: url("/img/teen-driver.jpg");
+  background-size: cover;
+}
+
+.textcolor {
+  color: greenyellow;
+}
+
+#services-section .fas {
+  background: #333;
+  color: #fff;
+  padding: 5px;
+  border-radius: 5px;
+}
+
+#benefits-section .fas {
+  color: #008ed6;
+  background: #fff;
+  padding: 5px;
+  border-radius: 5px;
+}
